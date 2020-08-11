@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Clayer</string>
+    <string name="slogan">Handmade to last</string>
+    <string name="description">We have a passion for clay, ceramics and the joy of creativity. Therefore we have created Clayer, handmade ceramics ready to be decorated by you.  </string>
+    <string name="community">We are a proud part of The Ceramics Community and if you want to be part of it as well you should check out their website below.</string>
+    <string name="community_header">Join the community! </string>
+    <string name="contact_header">Contact us </string>
+    <string name="contact_phone">000 000 000</string>
+    <string name="contact_email">contact@clayer.com</string>
 </resources>
