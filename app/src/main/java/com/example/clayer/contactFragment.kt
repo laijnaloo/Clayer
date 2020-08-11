@@ -42,7 +42,7 @@ class contactFragment : Fragment() {
         var email = viewOfLayout.findViewById<TextView>(R.id.contact_email)
         mImagePreview = viewOfLayout.findViewById(R.id.imagePreview) as ImageView
 
-        
+
         phoneNumber.setOnClickListener {
             makePhoneCall()
         }
